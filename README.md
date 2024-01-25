@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img width="1200" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 <h1 align="right">Hi 👋, I'm Federica <img width="80" alt="star icon" src="https://private-user-images.githubusercontent.com/74038190/243078652-7cc5988c-f607-4d4f-ab01-360a4f9321eb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDYxOTY4NzEsIm5iZiI6MTcwNjE5NjU3MSwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTItN2NjNTk4OGMtZjYwNy00ZDRmLWFiMDEtMzYwYTRmOTMyMWViLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTI1VDE1MjkzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ3YjA3ZmQyMTdiOTRmNmMxMTA5YjEzZDgxNWFjMTI3ZDExN2EyNmE3M2VmNzk4YTAyOWExYjc3NjcwYjkxZjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.arM1ygK6L03kqzx0qlkMp0HJN_dlq75UzsRb8VXAUsc"></h1>
-<img align="left" width="600" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"/>
+<img align="left" width="300" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"/>
 <h3 align="center">A passionate developer from Italy</h3>
 
 
