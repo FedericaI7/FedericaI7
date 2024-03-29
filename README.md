@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <p align="left">
   <h3 align="center">A passionate developer from Italy 🇮🇹</h3>
   <h4 align="left">About Me</h4>
-  I'm currently learning Node.js, Express and MongoDB as part of my ongoing journey in software development. Additionally, I'm attending a training course to deepen my knowledge and skills in this field.
+<p>I've just wrapped up the Edgemony course, and now I'm diving headfirst into our team's final project!</p>
 
   <h4 align="left">What You'll Find Here</h4>
   <p> In this profile, you can find: </p>
