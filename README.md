@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   <h4 align="left">What You'll Find Here</h4>
   <p> In this profile, you can find: </p>
   <ul>
+  <li>Medical Appointments App: https://github.com/FedericaI7/appointment-app</li>
   <li>Pokedex App: https://github.com/FedericaI7/Pokedex-app</li>
   <li>Advent Calendar: https://github.com/FedericaI7/AdventCalendar </li>
   <li>Movie App in Javascript: https://github.com/FedericaI7/Project-Movie</li>
