@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 <p align="left">
   <h3 align="center">A passionate developer from Italy 🇮🇹</h3>
-  <h4 align="left">About Me</h4>
-<p> I've completed a full stack bootcamp </p>
+<!--   <h4 align="left">About Me</h4>
+<p></p> -->
 
   <h4 align="left">What You'll Find Here</h4>
   <p> In this profile, you can find: </p>
